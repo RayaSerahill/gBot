@@ -90,3 +90,6 @@ typings/
 # Configuration directory
 config
 .idea
+register.js
+config.json
+package-lock.json
